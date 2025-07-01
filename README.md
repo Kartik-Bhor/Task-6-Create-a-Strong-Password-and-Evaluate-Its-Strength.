@@ -30,10 +30,10 @@ Password Security Analysis Report:
 
  4. Feedback from Strength Checker:
     
-    -kartik123= Too common, lacks symbols.
-    -Kartik@2024=  Contains dictionary word.
-    -K@rT1k_2024!= Good complexity.
-    -@x7$K@wR2!zP= Excellent entropy.
+      -kartik123 Too common, lacks symbols.
+      -Kartik@2024  Contains dictionary word.
+      -K@rT1k_2024! Good complexity.
+      -@x7$K@wR2!zP Excellent entropy.
 
 
 Password Security Analysis Report:
@@ -59,10 +59,10 @@ Password Security Analysis Report:
  
  7. Common Password Attacks:
     
-   -Brute Force: Tries all combinations.
-   -Dictionary Attack: Uses known password lists.
-   -Credential Stuffing: Uses leaked credentials.
-   -Phishing: Tricks users into revealing passwords.
+     -Brute Force-> Tries all combinations.
+     -Dictionary-> Attack Uses known password lists.
+     -Credential Stuffing-> Uses leaked credentials.
+     -Phishing-> Tricks users into revealing passwords.
  
  
  8. Summary:
