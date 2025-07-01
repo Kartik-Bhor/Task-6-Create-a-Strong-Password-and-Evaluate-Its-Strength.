@@ -13,6 +13,7 @@ Password Security Analysis Report
  | @x7$K@wR2!zP     | Yes   | Yes   | Yes     | Yes     | 13     |
 
  4. Password Strength Checker Results
+
  | Password         | Strength     | Time to Crack       |
  |------------------|--------------|----------------------|
  | kartik123        | Weak         | Instant              |
