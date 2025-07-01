@@ -73,3 +73,5 @@ Password Security Analysis Report:
       - Complexity increases resistance to attacks.
       - Random, long, and mixed-character passwords are most secure.
       - Password entropy is crucial.
+
+*Added screenshots for proof*
