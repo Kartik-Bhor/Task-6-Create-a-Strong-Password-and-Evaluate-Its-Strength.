@@ -22,13 +22,46 @@ Password Security Analysis Report
  | @x7$K@wR2!zP     | Very Strong  | Thousands of years   |
 
 
- 5. Feedback from Strength Checker- kartik123: Too common, lacks symbols.- Kartik@2024: Contains dictionary word.- K@rT1k_2024!: Good complexity.- @x7$K@wR2!zP: Excellent entropy.
+ 5. Feedback from Strength Checker:
+    
+    -kartik123: Too common, lacks symbols.
+    -Kartik@2024: Contains dictionary word.
+    -K@rT1k_2024!: Good complexity.
+    -@x7$K@wR2!zP: Excellent entropy.
 
-Password Security Analysis Report
- 6. Best Practices for Strong Passwords- Use at least 12-16 characters.- Mix uppercase, lowercase, numbers, and symbols.- Avoid personal info or dictionary words.- Use unique passwords per site.- Use a password manager.
+
+Password Security Analysis Report:
+
+
+ 6. Best Practices for Strong Passwords:
  
- 7. Tips Learned- Avoid names, patterns, or common words.- Longer = stronger.- Mix symbols/numbers for complexity.- Use randomness.- Store securely with a password manager.
+      - Use at least 12-16 characters.
+      - Mix uppercase, lowercase, numbers, and symbols.
+      - Avoid personal info or dictionary words.
+      - Use unique passwords per site.
+      - Use a password manager.
  
- 8. Common Password Attacks- Brute Force: Tries all combinations.- Dictionary Attack: Uses known password lists.- Credential Stuffing: Uses leaked credentials.- Phishing: Tricks users into revealing passwords.
+
+ 8. Tips Learned:
+
+      - Avoid names, patterns, or common words.
+      - Longer = stronger.
+      - Mix symbols/numbers for complexity.
+      - Use randomness.
+      - Store securely with a password manager.
  
- 9. Summary: Password Complexity & Security- Simple passwords are easily cracked.- Complexity increases resistance to attacks.- Random, long, and mixed-character passwords are most secure.- Password entropy is crucial.
+ 
+ 9. Common Password Attacks:
+    
+   -Brute Force: Tries all combinations.-
+   -Dictionary Attack: Uses known password lists.-
+   -Credential Stuffing: Uses leaked credentials.-
+   -Phishing: Tricks users into revealing passwords.
+ 
+ 
+ 12. Summary:
+     
+      - Password Complexity & Security- Simple passwords are easily cracked.
+      - Complexity increases resistance to attacks.
+      - Random, long, and mixed-character passwords are most secure.
+      - Password entropy is crucial.
