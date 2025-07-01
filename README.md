@@ -1,4 +1,4 @@
-# Task-6-Created-Strong-Passwords-and-Evaluated-there-Strength.
+# Task-6-Created-Passwords-and-Evaluated-there-Strength.
 
 
 Password Security Analysis Report:
